@@ -1,4 +1,6 @@
 # Learning-Tableau
+![credi-card-an-1](https://github.com/user-attachments/assets/a7d70fb2-c22b-42f2-8a13-5af42870090a)
+
 # Credit Card Complaints Analysis Using Tableau
 
 Overview
